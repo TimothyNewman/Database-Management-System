@@ -1,0 +1,1 @@
+Please note that this project is a Database Management System that was completed by myself at UCB. I completed this project from an extensive code base that was given through my database class, but in most of the files you will find my work (which was extensive, hundreds of hours of my time has gone into this project).
